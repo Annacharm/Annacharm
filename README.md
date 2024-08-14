@@ -15,7 +15,7 @@
 
 <br/>
 
-[![committers.top badge](https://user-badge.committers.top/Pakistan/Annacharm.svg)](https://user-badge.committers.top/Pakistan/Annacharm)
+[![committers.top badge](https://user-badge.committers.top/pakistan/Annacharm.svg)](https://user-badge.committers.top/pakistan/Annacharm)
 
 <br>
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Annacharm&theme=onedark" alt="Annacharm" /></a>
